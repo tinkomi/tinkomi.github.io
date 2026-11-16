@@ -8,6 +8,20 @@ categories: [tutorials]
 tags: [json, csv, markdown, data-conversion]
 ---
 
+<figure style="margin: 1.5rem 0;">
+  <img
+    src="{{ '/assets/datastudio-lite-guide-hero.webp' | relative_url }}"
+    alt="Abstract cobalt and mint data blocks moving from scattered elements into an organized grid."
+    width="1600"
+    height="900"
+    decoding="async"
+    style="display:block;width:100%;height:auto;border-radius:12px;"
+  >
+  <figcaption style="font-size:0.85rem;color:#64748b;margin-top:0.5rem;">
+    Concept illustration for DataStudio Lite. Not an application screenshot.
+  </figcaption>
+</figure>
+
 DataStudio Lite is a free browser-based utility for converting and formatting JSON, CSV, and Markdown tables. Its repository describes table previews and local downloads.
 
 ## What it offers
