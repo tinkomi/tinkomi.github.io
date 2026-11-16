@@ -9,7 +9,7 @@ permalink: /demos/
 These projects are free Lite editions or scoped demonstrations. Check each repository for its exact feature limits, license, and usage instructions. Public visibility does not itself grant an open-source license.
 
 ## DataStudio Lite
-Free JSON, CSV, and Markdown table converter with previews and local downloads. The current interface is Korean-language.
+Free JSON, CSV, and Markdown table converter with previews and local downloads. English is selected by default; the interface supports English, Spanish, French, Portuguese, Simplified Chinese, Japanese, and Korean.
 [Repository](https://github.com/tinkomi/datastudio-offline-converter)
 
 ## SnapMock Studio Lite
