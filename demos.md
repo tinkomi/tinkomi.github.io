@@ -4,26 +4,44 @@ title: Free Demos
 permalink: /demos/
 ---
 
-# Free demos
+# Free Demos & Offline Utilities
 
-These projects are free Lite editions or scoped demonstrations. Check each repository for its exact feature limits, license, and usage instructions. Public visibility does not itself grant an open-source license.
+These projects are 100% offline-first browser utilities and free Lite editions. All processing executes locally in client browser memory with **zero server telemetry**.
 
-## DataStudio Lite
-Free JSON, CSV, and Markdown table converter with previews and local downloads. English is selected by default; the interface supports English, Spanish, French, Portuguese, Simplified Chinese, Japanese, and Korean.
-[Repository](https://github.com/tinkomi/datastudio-offline-converter)
+---
 
-## SnapMock Studio Lite
-Free screenshot presentation and browser mockup tool with isometric views and PNG export.
-[Repository](https://github.com/tinkomi/snapmock-studio-lite)
+## 1. ReconcileKit Lite
+Free, offline spreadsheet comparison & exception review studio for CSV, TSV, and Excel (XLSX) files. Smart primary key matching, added/deleted/mismatched row filtering, and cell-level diff indicators.
+- **[👉 Launch Free Live Demo](https://tinkomi.github.io/reconcilekit-spreadsheet-diff/)**
+- **[GitHub Repository](https://github.com/tinkomi/reconcilekit-spreadsheet-diff)**
+- **[Download PRO Edition ($15)](https://payhip.com/b/rKVYe)** — Includes XLSX export, exception review queues with auditor notes, and 1-click audit ZIP deliverables.
 
-## SparSpan Lite
-GitHub v1.0.0 is a view-only miniature rigging takeoff demo with 10 fixed points and 7 paths.
-[Repository](https://github.com/tinkomi/sparspan-rigging-path-takeoff-demo)
+---
 
-## RegisterBench Lite
-A read-only print registration review sample with three fictional proofs and vector sketches.
-[Repository](https://github.com/tinkomi/registerbench-lite-read-only-proof-review-demo)
+## 2. DataStudio Lite
+Free JSON, CSV, and Markdown table converter with interactive table explorer, PII masking, and local file downloads.
+- **[👉 Launch Free Live Demo](https://tinkomi.github.io/datastudio-offline-converter/)**
+- **[GitHub Repository](https://github.com/tinkomi/datastudio-offline-converter)**
+- **[Download PRO Edition ($12)](https://mcjinster.gumroad.com/l/wrqkpr)** — Includes schema validation, custom mapping pipelines, and bulk batch transforms.
 
-## Community Photo Archive Digitization Lite
-An Excel starter with one editable worksheet, 10 record rows, and three fictional examples.
-[Repository](https://github.com/tinkomi/community-photo-archive-digitization-lite)
+---
+
+## 3. SnapMock Studio Lite
+Free screenshot presentation and browser mockup tool with 3D isometric tilt views, device bezels, and high-res PNG export.
+- **[👉 Launch Free Live Demo](https://tinkomi.github.io/snapmock-studio-lite/)**
+- **[GitHub Repository](https://github.com/tinkomi/snapmock-studio-lite)**
+- **[Download PRO Edition ($9)](https://mcjinster.gumroad.com/l/bmrpp)**
+
+---
+
+## 4. PromptForge Studio Lite
+Free, offline-first AI prompt builder and system prompt structure generator with XML hierarchy visualization and SDK code exports.
+- **[👉 Launch Free Live Demo](https://tinkomi.github.io/promptforge-prompt-studio/)**
+- **[GitHub Repository](https://github.com/tinkomi/promptforge-prompt-studio)**
+- **[Download PRO Edition ($9)](https://mcjinster.gumroad.com/l/nqpdjy)**
+
+---
+
+## 🌐 7-Language Global Support
+All tools feature built-in instant translation across 7 languages:  
+🇺🇸 English · 🇪🇸 Español · 🇫🇷 Français · 🇧🇷 Português · 🇨🇳 简体中文 · 🇯🇵 日本語 · 🇰🇷 한국어
