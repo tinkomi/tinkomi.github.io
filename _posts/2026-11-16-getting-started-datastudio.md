@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Getting Started with DataStudio Lite: JSON, CSV & Markdown"
+title: "Getting Started with DataStudio Lite"
 description: "A scope-accurate introduction to the free DataStudio Lite browser tool."
 date: 2026-11-16
+permalink: /blog/2026/11/16/datastudio-lite-guide/
 categories: [tutorials]
 tags: [json, csv, markdown, data-conversion]
 ---
