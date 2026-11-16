@@ -14,9 +14,9 @@ DataStudio Lite is a free browser-based utility for converting and formatting JS
 
 The project is intended for focused conversions and quick table inspection. See the [DataStudio Lite repository](https://github.com/tinkomi/datastudio-offline-converter) for the current files, instructions, and supported behavior.
 
-## Important interface note
+## Interface languages
 
-The current interface is labeled in Korean, although the repository README is in English. This guide does not imply that the interface itself is translated.
+The demo opens with English selected. Its language menu supports English, Spanish, French, Portuguese, Simplified Chinese, Japanese, and Korean.
 
 ## Check the scope
 
