@@ -11,23 +11,23 @@ Explore free browser utilities, Lite demonstrations, and practical guides. Every
 
 ## Featured free demos
 
-### [DataStudio Lite](https://github.com/mcjin87-eng/datastudio-offline-converter)
+### [DataStudio Lite](https://github.com/tinkomi/datastudio-offline-converter)
 JSON, CSV, and Markdown conversion with table preview and local downloads. The current interface is Korean-language.
 
-### [SnapMock Studio Lite](https://github.com/mcjin87-eng/snapmock-studio-lite)
+### [SnapMock Studio Lite](https://github.com/tinkomi/snapmock-studio-lite)
 A browser-based screenshot presentation and isometric mockup tool with PNG export.
 
-### [SparSpan Lite](https://github.com/mcjin87-eng/sparspan-rigging-path-takeoff-demo)
+### [SparSpan Lite](https://github.com/tinkomi/sparspan-rigging-path-takeoff-demo)
 A view-only v1.0.0 miniature rigging takeoff demonstration with 10 fixed points and 7 paths.
 
-### [RegisterBench Lite](https://github.com/mcjin87-eng/registerbench-lite-read-only-proof-review-demo)
+### [RegisterBench Lite](https://github.com/tinkomi/registerbench-lite-read-only-proof-review-demo)
 A read-only review sample with three fictional proofs and vector sketches.
 
-### [Community Photo Archive Lite](https://github.com/mcjin87-eng/community-photo-archive-digitization-lite)
+### [Community Photo Archive Lite](https://github.com/tinkomi/community-photo-archive-digitization-lite)
 An editable Excel starter with 10 record rows and three fictional examples.
 
 ## Latest notes
 
-- [Getting Started with DataStudio Lite](blog/2026/11/16/datastudio-lite-guide/)
+- [Getting Started with DataStudio Lite](blog/2026/11/16/getting-started-with-datastudio-lite/)
 
 [All demos](demos) · [All posts](blog)
