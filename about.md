@@ -6,7 +6,7 @@ permalink: /about/
 
 # About this portfolio
 
-This site collects practical browser utilities, free Lite demos, and workflow notes published under the GitHub account [mcjin87-eng](https://github.com/mcjin87-eng).
+This site collects practical browser utilities, free Lite demos, and workflow notes published under the GitHub account [tinkomi](https://github.com/tinkomi).
 
 ## Principles
 
@@ -15,4 +15,4 @@ This site collects practical browser utilities, free Lite demos, and workflow no
 - Avoid claims about performance, privacy, or licensing unless supported by project documentation.
 - Keep paid/full product source and distribution files separate from free public demos.
 
-[Browse repositories](https://github.com/mcjin87-eng?tab=repositories)
+[Browse repositories](https://github.com/tinkomi?tab=repositories)
