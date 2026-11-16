@@ -8,6 +8,10 @@ categories: [tutorials]
 tags: [json, csv, markdown, data-conversion]
 ---
 
+# Getting Started with DataStudio Lite
+
+<time datetime="2026-11-16">November 16, 2026</time>
+
 <figure style="margin: 1.5rem 0;">
   <img
     src="{{ '/assets/datastudio-lite-guide-hero.webp' | relative_url }}"
