@@ -28,6 +28,6 @@ An editable Excel starter with 10 record rows and three fictional examples.
 
 ## Latest notes
 
-- [Getting Started with DataStudio Lite](blog/2026/11/16/getting-started-with-datastudio-lite/)
+- [Getting Started with DataStudio Lite](blog/2026/11/16/datastudio-lite-guide/)
 
 [All demos](demos) · [All posts](blog)
