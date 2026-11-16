@@ -12,7 +12,7 @@ DataStudio Lite is a free browser-based utility for converting and formatting JS
 
 ## What it offers
 
-The project is intended for focused conversions and quick table inspection. See the [DataStudio Lite repository](https://github.com/mcjin87-eng/datastudio-offline-converter) for the current files, instructions, and supported behavior.
+The project is intended for focused conversions and quick table inspection. See the [DataStudio Lite repository](https://github.com/tinkomi/datastudio-offline-converter) for the current files, instructions, and supported behavior.
 
 ## Important interface note
 
