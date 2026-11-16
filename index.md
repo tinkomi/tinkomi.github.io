@@ -12,7 +12,7 @@ Explore free browser utilities, Lite demonstrations, and practical guides. Every
 ## Featured free demos
 
 ### [DataStudio Lite](https://github.com/tinkomi/datastudio-offline-converter)
-JSON, CSV, and Markdown conversion with table preview and local downloads. The current interface is Korean-language.
+JSON, CSV, and Markdown conversion with table preview and local downloads. English is selected by default; seven interface languages are available.
 
 ### [SnapMock Studio Lite](https://github.com/tinkomi/snapmock-studio-lite)
 A browser-based screenshot presentation and isometric mockup tool with PNG export.
